@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "name": "Pedro Benítez", "email": "pedro.benitez@test.com", "password": "Secreta123" },
+    { "name": "Sofía Acosta", "email": "sofia.acosta@test.com" },
+    { "name": "", "email": "sin.nombre@test.com" },
+    { "name": "Email Inválido", "email": "esto-no-es-un-email" },
+    { "name": "Sofía Duplicada", "email": "sofia.acosta@test.com" },
+    { "name": "Clave Corta", "email": "clave.corta@test.com", "password": "123" }
+  ]
+}
