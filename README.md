@@ -4,6 +4,8 @@ Desarrollo de Prueba Técnica .NET - Período 2026.
 
 API REST para gestionar usuarios, direcciones y monedas, con conversión de divisas.
 
+Todos los json de prueba se encuentran en la carpeta sample-data
+
 ## Tecnologías
 
 - .NET 9 (Minimal API)
